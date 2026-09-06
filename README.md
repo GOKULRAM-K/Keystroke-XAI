@@ -197,21 +197,6 @@ jupyter notebook notebooks/keystroke_intelligence_xai.ipynb
 
 ---
 
-## 📄 Citation & Attribution
-
-If you use **TypeXAI** or build upon this research, please cite:
-
-```bibtex
-@article{gokulram2026typexai,
-  title={Behavioral Signatures of Cognition: Toward Explainable Keystroke Intelligence},
-  author={Gokul Ram K, Rohit N, and Premanand V},
-  journal={School of Computer Science and Engineering, Vellore Institute of Technology, Chennai},
-  year={2026}
-}
-```
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
