@@ -8,11 +8,12 @@
 
 # An Explainable Machine Learning Approach to Keystroke-Based User Identification
 
-[![Conference](https://shields.io)](https://ieee.org)
-[![Python 3.10+](https://shields.io)](https://python.org)
-[![License: MIT](https://shields.io)](LICENSE)
+[![Conference](https://img.shields.io/badge/Conference-ICACRS%202026-blue)](https://www.icacrs.com/2026/)
+[![IEEE](https://img.shields.io/badge/Publisher-IEEE-00629B)](https://ieeexplore.ieee.org/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **Accepted at the 2026 5th International Conference on Automation, Computing and Renewable Systems (ICACRS) — IEEE.**
+> **Accepted at the 2026 5th International Conference on Automation, Computing and Renewable Systems (ICACRS), IEEE.**
 
 ---
 
