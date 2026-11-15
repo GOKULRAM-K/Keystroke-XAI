@@ -6,7 +6,13 @@
 [![SHAP](https://img.shields.io/badge/XAI-SHAP-brightgreen.svg)](https://shap.readthedocs.io/)
 [![Author](https://img.shields.io/badge/Lead%20Author-Gokul%20Ram%20K-blueviolet)](https://www.linkedin.com/in/gokul-ram-k-277a6a308/)
 
-Official repository for **"Behavioral Signatures of Cognition: Toward Explainable Keystroke Intelligence (TypeXAI)"**.
+# An Explainable Machine Learning Approach to Keystroke-Based User Identification
+
+[![Conference](https://shields.io)](https://ieee.org)
+[![Python 3.10+](https://shields.io)](https://python.org)
+[![License: MIT](https://shields.io)](LICENSE)
+
+> **Accepted at the 2026 5th International Conference on Automation, Computing and Renewable Systems (ICACRS) — IEEE.**
 
 ---
 
@@ -118,7 +124,7 @@ Evaluating on the benchmark **CMU Keystroke Dynamics Dataset** (51 typists, 20,4
 ## 📁 Repository Structure
 
 ```text
-GITHUB Pushes/
+Keystroke-XAI/
 ├── README.md                           # Comprehensive project documentation
 ├── LICENSE                             # MIT License
 ├── .gitignore                          # Git ignore rules
@@ -154,8 +160,8 @@ GITHUB Pushes/
 
 ### 1. Clone Repository & Navigate
 ```bash
-git clone https://github.com/GOKULRAM-K/Keystroke-Intelligence---XAI-Framework.git
-cd "Keystroke-Intelligence---XAI-Framework"
+git clone https://github.com
+cd Keystroke-XAI
 ```
 
 ### 2. Environment Setup
