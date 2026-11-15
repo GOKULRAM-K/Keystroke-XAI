@@ -22,7 +22,7 @@
 **Gokul Ram K**  
 *School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India*  
 📧 **Email**: [gokul.ram.kannan210905@gmail.com](mailto:gokul.ram.kannan210905@gmail.com)  
-🔗 **LinkedIn**: [gokul-ram-k-277a6a308](https://www.linkedin.com/in/gokul-ram-k-277a6a308/)  
+🔗 **LinkedIn**: [www.linkedin.com/in/gokul-ram-kannan-277a6a308](https://www.linkedin.com/in/gokul-ram-k-277a6a308/)  
 
 ---
 
